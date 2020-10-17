@@ -1,1 +1,0 @@
-Database for starting the node without having to sync from epoch 1
